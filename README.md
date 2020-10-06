@@ -1,4 +1,4 @@
-## **Hey, I'm Wagner**
+## **Hi, I'm Wagner**
 ---
 #### I'm a master of engineering in computational solid mechanics and currently working on artificial intelligence in the energy industry
 
